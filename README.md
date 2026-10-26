@@ -1,19 +1,16 @@
 # Epidemiological and Clinical Case Study on Clubfoot (CTEV) in Bangladesh
 
-[![Shahjalal University of Science and Technology](https://img.shields.io/badge/SUST-Department%20of%20GEB-006699?style=flat-square)](https://www.sust.edu)
-[![Course](https://img.shields.io/badge/Course-GEB%20133%3A%20Cytology-brightgreen?style=flat-square)](#academic-information)
-[![Field](https://img.shields.io/badge/Field-Medical%20Genetics%20%7C%20Pediatric%20Orthopedics-blue?style=flat-square)](#overview)
+**Authors:**  
+Md Nehamul Islam Nehad · Sunayda Jahan Sruty · Ridoy Chandra Roy · Md Abu Sadat Soash · Shatabdi Roy · Alvee Alam · Jahidul Islam Shovo · Shadman Mutassim Efad  
+*Department of Genetic Engineering and Biotechnology*<br>
+*Shahjalal University of Science and Technology, Sylhet, Bangladesh*
+
+[![Field](https://img.shields.io/badge/Field-Medical%20Genetics%20%7C%20Pediatric%20Orthopedics-blue?style=flat-square)](#abstract)
 [![Cohort](https://img.shields.io/badge/Patients%20Studied-16%20Cases-orange?style=flat-square)](#key-findings--cohort-summary)
 
 ---
 
-## Overview
-
-This repository contains the field research, patient case series, clinical questionnaire, and analytical report for a multi-regional study on **Clubfoot** (Congenital Talipes Equinovarus — CTEV) in Bangladesh. 
-
-The study was conducted by undergraduate researchers from the **Department of Genetic Engineering and Biotechnology, Shahjalal University of Science and Technology**, Sylhet, under the Cytology course curriculum (**GEB 133**).
-
-### Abstract
+## Abstract
 
 Clubfoot is a congenital foot deformity characterised by medial deviation of the heel, forefoot adduction, and ankle inversion. While global prevalence is approximately 1 in 1,000 live births, in Bangladesh the estimated incidence is around 1 in 900 births (~5,000 children born each year with the condition).
 
@@ -64,40 +61,8 @@ Total Cohort (N = 16)
 | **[`Case Study on Clubfoot.pdf`](Case%20Study%20on%20Clubfoot.pdf)** | Report | Complete academic assignment report detailing study background, 16 individual patient case histories, graphical analyses, hospital survey findings, discussion, and literature citations. |
 | **[`Case Study on Clubfoot presentation.pptx`](Case%20Study%20on%20Clubfoot%20presentation.pptx)** | Slides | 14-slide academic presentation delivered for the course evaluation, including clinical imagery, methodology, and recommendations. |
 | **[`Case Study on Clubfoot info collection form.docx`](Case%20Study%20on%20Clubfoot%20info%20collection%20form.docx)** | Questionnaire | Standardized clinical data collection form and informed patient consent protocol utilized during field interviews and hospital surveys. |
-| **[`Case Study team information.pdf`](Case%20Study%20team%20information.pdf)** | Metadata | Student profiles and registry details of the eight research team members. |
+| **[`Case Study team information.pdf`](Case%20Study%20team%20information.pdf)** | Metadata | Student profiles and contact details of the eight research team members. |
 | **[`Chromosomal Disorders in BD.pdf`](Chromosomal%20Disorders%20in%20BD.pdf)** | Preliminary Data | Topic discovery survey documenting genetic and chromosomal anomalies in Bangladesh (including Cleft Palate, High-arched foot/Charcot-Marie-Tooth, CTEV, Trisomy 13/18/X, Beta-Thalassemia, and Marfan syndrome). |
-| **[`.gitignore`](.gitignore)** | Git Config | Git ignore rules for compiled documents (`*.pdf`, `*.docx`, `*.pptx`). |
-
-> [!NOTE]
-> The document files (`.pdf`, `.docx`, `.pptx`) are currently listed in `.gitignore`. If you wish to version and commit these documents into the remote Git repository, consider using [Git LFS](https://git-lfs.github.com/) or removing the exclusion patterns from `.gitignore`.
-
----
-
-## Academic Information
-
-- **Institution**: [Shahjalal University of Science and Technology (SUST)](https://www.sust.edu), Sylhet, Bangladesh
-- **Department**: Department of Genetic Engineering and Biotechnology (GEB)
-- **Degree**: B.Sc. (Honours) in Genetic Engineering and Biotechnology
-- **Course**: GEB 133: Cytology (1st Year, 2nd Semester)
-- **Course Supervisor**: **Dr. Mohammad Jakir Hosen**, Professor, Department of GEB, SUST
-- **Date of Submission**: January 13, 2023
-
----
-
-## Research Team Members
-
-All members are students of the Department of Genetic Engineering and Biotechnology (Batch 2020), SUST:
-
-| # | Name | Registration No. | Role / Contribution |
-| :-: | :--- | :---: | :--- |
-| 1 | **Md Nehamul Islam Nehad** | 2020431002 | Field Survey, Patient Interviews & Documentation |
-| 2 | **Sunayda Jahan Sruty** | 2020431010 | Clinical Literature Review & Data Analysis |
-| 3 | **Ridoy Chandra Roy** | 2020431012 | Field Survey & Questionnaire Administration |
-| 4 | **Md Abu Sadat Soash** | 2020431013 | Data Compilation, Formatting & Presentation Design |
-| 5 | **Shatabdi Roy** | 2020431017 | Clinical Data Collection & Hospital Coordination |
-| 6 | **Alvee Alam** | 2020431029 | Genetic Etiology Research & Topic Survey |
-| 7 | **Jahidul Islam Shovo** | 2020431031 | Field Survey & Case Reporting |
-| 8 | **Shadman Mutassim Efad** | 2020431035 | Field Survey & Interview Coordination |
 
 ---
 
