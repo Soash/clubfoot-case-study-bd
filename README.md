@@ -7,7 +7,6 @@
 [![Field](https://img.shields.io/badge/Field-Medical%20Genetics%20%7C%20Pediatric%20Orthopedics-blue.svg)](#1-clinical-background--healthcare-challenge)
 [![Cohort](https://img.shields.io/badge/Cohort-16%20Clinical%20Cases-orange.svg)](#2-clinical-study-design--patient-cohort)
 [![Geography](https://img.shields.io/badge/Geography-Bangladesh%20Multi--District-green.svg)](#2-clinical-study-design--patient-cohort)
-[![Therapy](https://img.shields.io/badge/Method-Ponseti%20Technique%20(87.5%25)-teal.svg)](#4-key-findings--healthcare-bottlenecks)
 
 ---
 
