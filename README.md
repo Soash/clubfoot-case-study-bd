@@ -1,6 +1,6 @@
 # Epidemiological and Clinical Case Study on Clubfoot (CTEV) in Bangladesh
 
-**Authors:** Md Nehamul Islam Nehad · Sunayda Jahan Sruty · Ridoy Chandra Roy · Md Abu Sadat Soash · Shatabdi Roy · Alvee Alam · Jahidul Islam Shovo · Shadman Mutassim Efad  
+**Author(s):** Md Nehamul Islam Nehad · Sunayda Jahan Sruty · Ridoy Chandra Roy · Md Abu Sadat Soash · Shatabdi Roy · Alvee Alam · Jahidul Islam Shovo · Shadman Mutassim Efad  
 *Department of Genetic Engineering and Biotechnology*<br>
 *Shahjalal University of Science and Technology, Sylhet, Bangladesh*
 
